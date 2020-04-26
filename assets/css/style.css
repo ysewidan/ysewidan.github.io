@@ -725,8 +725,8 @@ section {
 .portfolio #portfolio-btn li {
   cursor: pointer;
   display: inline-block;
-  padding: 4px 7px 4px 7px;
-  font-size: 10px;
+  padding: 7px 14px 7px 14px;
+  font-size: 12px;
   font-weight: 500;
   line-height: 1;
   color: #444444;
