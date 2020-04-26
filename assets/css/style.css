@@ -1328,6 +1328,10 @@ section {
   padding: 0 0 0 0;
 }
 
+.portfolio-details .portfolio-description img {
+  padding: 0% 16.5%;
+}
+
 @media (max-width: 768px) {
   .portfolio-details .portfolio-info {
     position: static;
